@@ -1,0 +1,31 @@
+/* 
+  You don't need to add any styles to complete this project.
+
+  If you want to add styles, you can do so in this file.
+  
+*/
+
+
+
+/* These styles are for the disclaimer -- leave them alone */
+body{
+  background-color: #f7f3fb;
+}
+.disclaimer {
+  margin: 1em;
+  padding: 4px;
+  border: 1px solid hotpink;
+}
+ .container{
+   border: solid white 2px;
+   max-width: 500px;
+ }
+
+.address{
+max-width: 160px;
+text-align: centre;
+
+}
+.earlier a{
+  text-decoration: none;
+}
